@@ -1,3 +1,5 @@
+> **Pepperlink fork: mirror only.** No builds run from this copy (the legacy `docker-ci` workflow was disabled 2026-09-24). The image [`ghcr.io/pepperlink/master-fetch`](https://github.com/orgs/pepperlink/packages/container/package/master-fetch) is built from the upstream repo by [`pepperlink/container-images`](https://github.com/pepperlink/container-images).
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/dondai1234/master-fetch/master/docs/hound-logo.png" alt="Hound logo" width="128">
